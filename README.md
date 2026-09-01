@@ -1,2 +1,2 @@
 # SiSuKa
-Sistem informasi Manajemen Surat Kantor
+Sistem Surat Kantor
